@@ -203,6 +203,9 @@
 		<ul>
 			<li>add column left</li>
 			<li>add column right</li>
+			<li>sort ascending</li>
+			<li>sort decending</li>
+			<li class="divider"></li>
 			<li class="getMean">mean: <span></span></li>
 			<li class="getSD">SD: <span></span></li> 
 		</ul>
